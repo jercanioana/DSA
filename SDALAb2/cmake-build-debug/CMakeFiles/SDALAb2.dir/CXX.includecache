@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/SDALAb2/Iterator.h
+SortedSet.h
+/Users/ioanajercan/CLionProjects/SDALAb2/SortedSet.h
+
+/Users/ioanajercan/CLionProjects/SDALAb2/SortedSet.h
+
+/Users/ioanajercan/CLionProjects/SDALAb2/main.cpp
+iostream
+-
+assert.h
+-
+Iterator.h
+/Users/ioanajercan/CLionProjects/SDALAb2/Iterator.h
+SortedSet.h
+/Users/ioanajercan/CLionProjects/SDALAb2/SortedSet.h
+

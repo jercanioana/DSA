@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/DSALab6/Matrix.h
+
+/Users/ioanajercan/CLionProjects/DSALab6/main.cpp
+iostream
+-
+Matrix.h
+/Users/ioanajercan/CLionProjects/DSALab6/Matrix.h
+exception
+-
+assert.h
+-
+
